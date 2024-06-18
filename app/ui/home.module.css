@@ -5,3 +5,10 @@
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
   }
+
+.herobackgroundImage {
+  background-image: url('../ui/images/hero_banner.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
