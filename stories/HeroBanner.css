@@ -1,0 +1,33 @@
+/* src/components/HeroBanner.css */
+.hero-banner {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+  }
+  
+  .hero-content {
+    z-index: 1;
+    border-left: 7px solid #fff;
+    margin:168px 64px 64px;
+    padding-left: 64px;
+  }
+  
+  .hero-title {
+    font-size: 168px;
+    text-transform: uppercase;
+  }
+  
+  .hero-subtitle {
+    font-size: 64px;
+    margin-bottom: .5rem;
+    text-transform: uppercase;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+ 
